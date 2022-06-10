@@ -5,4 +5,5 @@
 + HTML5
 + CSS3
 + GitHub
-![screen_3x-2](img\screen_3x-2.jpg)
+# фото
+![screen_3x-2](img\screen_3x-2)
