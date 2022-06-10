@@ -6,4 +6,4 @@
 + CSS3
 + GitHub
 # фото
-![foto](screen_3x-2.jpg)
+![foto](https://github.com/Gerik36/self-active/blob/master/screen_3x-2.jpg)
